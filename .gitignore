@@ -1,0 +1,15 @@
+Videos/
+
+Audios/
+
+venv/
+
+ffmpeg/
+
+pyvenv.cfg
+
+cookies.txt
+
+old/
+
+__pycache__/
