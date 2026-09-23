@@ -6,3 +6,5 @@ https://ffmpeg.org/download.html (build from gyan.dev -> ffmpeg-git-full.7z extr
 
 Se precisar extraia um cookie do youtube renomeie apenas para cookie.txt e ponhe na pasta junto com o main
 Uso essa extensão https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
+
+Aviso: Baixar varios videos seguidos principalmente playlist com seus cookies pode levar a ban no youtube cuide quando estiver usando cookies próprio 
